@@ -20,8 +20,8 @@ pids/
 *.pid.lock
 
 # dotenv environment variables
-# .env
-# .env.*.local
+.env
+.env.*.local
 
 # Test coverage
 coverage/
